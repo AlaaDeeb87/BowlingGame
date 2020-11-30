@@ -1,0 +1,9 @@
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.deps.json
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.dll
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp3.1\BowlingGame.pdb
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.csprojAssemblyReference.cache
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.AssemblyInfo.cs
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.dll
+C:\Users\alaas\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp3.1\BowlingGame.pdb
